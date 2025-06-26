@@ -2,6 +2,9 @@
 
 這是一個基於 React 開發的產品列表應用，具備多種篩選、排序和分頁功能，並支援響應式設計（RWD），以提供在不同設備上良好的用戶體驗。
 
+<img src="src/assets/table.png" alt="桌面樣式">
+<img src="src/assets/card.png" width="200" alt="行動樣式">
+
 ## 功能特色
 
 * **關鍵字搜尋**：根據產品名稱進行搜尋。
